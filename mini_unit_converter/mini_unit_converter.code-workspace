@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "mini_unit_converter"
+    }
+  ],
+  "settings": {
+    "dart.flutterSdkPath": "C:\\Flutter",
+    "dart.runPubGetOnPubspecChanges": "always",
+    "dart.previewSdkDaps": true
+  }
+}
